@@ -83,6 +83,7 @@ We define **attrition risk** as employees with `company_tenure < 13 years`.
 We used `GradientBoostingClassifier` with:
 ```python
 GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=42)
+```
 
 This app is built using **Streamlit** and can be deployed on [Streamlit Cloud](https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/).
 
