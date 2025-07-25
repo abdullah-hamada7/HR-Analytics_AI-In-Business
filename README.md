@@ -85,12 +85,13 @@ We used `GradientBoostingClassifier` with:
 GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=42)
 ```
 
-This app is built using **Streamlit** and can be deployed on [Streamlit Cloud](https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/).
+✅ Deployed on **Streamlit Cloud**  
+🔗 **Live App**: [https://<your-app-name>.streamlit.app]([https://<your-app-name>.streamlit.app](https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/))
 
-To deploy:
-1. Fork or clone this repository.
-2. Push to your GitHub.
-3. Add a `requirements.txt`:
+To deploy yourself:
+
+1. Fork or clone this repo.
+2. Ensure you have `requirements.txt` with:
     ```txt
     streamlit>=1.25
     pandas>=1.5
@@ -99,4 +100,4 @@ To deploy:
     joblib>=1.2
     xgboost>=1.7
     ```
-4. Deploy from Streamlit Cloud dashboard.
+3. Push to GitHub and deploy via [Streamlit Cloud](https://streamlit.io/cloud).
