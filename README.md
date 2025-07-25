@@ -1,5 +1,7 @@
 # HR Analytics & Attrition Risk Prediction Dashboard
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)](https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/)
+
 A complete HR analytics solution built with **Pandas, Plotly, Scikit-learn**, and deployed via **Streamlit**. This project analyzes employee data to uncover workforce trends, department performance, salary structures, and predicts attrition risk using machine learning.
 
 ---
@@ -86,7 +88,7 @@ GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=42)
 ```
 
 ✅ Deployed on **Streamlit Cloud**  
-🔗 **Live App**: [https://<your-app-name>.streamlit.app]((https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/))
+🔗 **Live App**: [https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/](https://hr-analyticsai-in-business-9erm3kef6xxniet783cm8c.streamlit.app/)
 
 To deploy yourself:
 
